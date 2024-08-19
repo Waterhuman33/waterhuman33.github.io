@@ -27,15 +27,15 @@ Yrgo
 2023 - 2025, Gothenburg
 
 #### Independent Courses
-Graphic Design for Games 7.5 credits
-Uppsala University
-2023
-Fundamentals of Human-Computer Interaction 7.5 credits
-Uppsala University
-2023
-Human-Computer Interaction 5 credits
-Uppsala University
-2023
-Computer Game Production 7.5 credits
-Luleå University of Technology
-2023
+Graphic Design for Games 7.5 credits  
+Uppsala University  
+2023  
+Fundamentals of Human-Computer Interaction 7.5 credits  
+Uppsala University  
+2023  
+Human-Computer Interaction 5 credits  
+Uppsala University  
+2023  
+Computer Game Production 7.5 credits  
+Luleå University of Technology  
+2023  
