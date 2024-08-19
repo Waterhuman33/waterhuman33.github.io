@@ -22,8 +22,20 @@ Summary of what you did at the place
 
 ### Education
 
-**Game Creator Programmer** Yrgo 2022 - 2024, Gothenburg
+**Game Creator Programmer** 
+Yrgo
+2023 - 2025, Gothenburg
 
-Name of education
-School
-20xx - 20xx, Location
+#### Independent Courses
+Graphic Design for Games 7.5 credits
+Uppsala University
+2023
+Fundamentals of Human-Computer Interaction 7.5 credits
+Uppsala University
+2023
+Human-Computer Interaction 5 credits
+Uppsala University
+2023
+Computer Game Production 7.5 credits
+Luleå University of Technology
+2023
