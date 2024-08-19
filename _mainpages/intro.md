@@ -4,7 +4,7 @@ id: intro
 <!-- There's some html here to style the intro text correctly and can be ignored. Just write your text between the tags and you'll be fine  -->
 
 <h1 class="text-4xl font-semibold">
-Hi, there
+ Welcome to my Portfolio, here is some of projects I have been a part of!
 </h1>
 
 <p class="text-xl mt-8 mb-auto">
