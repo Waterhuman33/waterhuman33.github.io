@@ -6,25 +6,31 @@ id: about
 
 ## About me
 
-Describe yourself a bit. 
+21 year old man from Gothenburg with a passion for games in all forms.  
+
+### Hobbies
+- Board games
+- Beach Volleyball
+- Computer games
 
 ### Experience
-**Role** 
 
-Company
-_20xx - 20xx, Location_
+**Retail sales associate** 
 
-Summary of what you did at the place
+Liseberg AB
+2022 - 2024, Göteborg
 
-- A bullet point for bragging
-- And for boasting
+Assignments
 
+- keep the store in pristine shape
+- print and make photos/keyrings/magnets
+- help the guests and enhance their experience
 
 ### Education
 
-**Game Creator Programmer** 
-Yrgo
-2023 - 2025, Gothenburg
+**Game Creator Programmer**  
+Yrgo  
+2023 - 2025, Gothenburg  
 
 #### Independent Courses
 Graphic Design for Games 7.5 credits  
