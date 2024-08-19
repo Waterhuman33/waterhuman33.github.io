@@ -17,7 +17,7 @@ id: about
 
 **Retail sales associate** 
 
-Liseberg AB
+Liseberg AB  
 2022 - 2024, Göteborg
 
 Assignments
