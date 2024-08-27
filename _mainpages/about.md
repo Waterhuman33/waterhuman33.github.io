@@ -6,7 +6,7 @@ id: about
 
 ## About me
 
-21 year old man from Gothenburg with a passion for games in all forms.  
+21 year old from Gothenburg with a passion for games in all forms.  
 
 ### Hobbies
 - Board games
