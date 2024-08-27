@@ -20,12 +20,6 @@ id: about
 Liseberg AB  
 2022 - 2024, Göteborg
 
-Assignments
-
-- keep the store in pristine shape
-- print and make photos/keyrings/magnets
-- help the guests and enhance their experience
-
 ### Education
 
 **Game Creator Programmer**  
