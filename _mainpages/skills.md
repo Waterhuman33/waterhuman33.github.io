@@ -29,5 +29,5 @@ English (professional)
 
 **Social**
 
-[Linkedin](https://linkedin.com/)
+[Linkedin](https://www.linkedin.com/in/vide-eneljung-b737b128a/)
 
